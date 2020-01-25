@@ -20,7 +20,7 @@ $ git clone https://github.com/joaowicktor/correios-package-tracking.git
 4. Rode `yarn dev` ou `npm run dev` para iniciar o servidor.
 
 ## :zap: Exemplos
-#### GET `/track/code=CODIGO_DE_RASTREIO`
+#### GET `/api/track/code=CODIGO_DE_RASTREIO`
 _Caso o código seja **válido**_
 ```json
 {
