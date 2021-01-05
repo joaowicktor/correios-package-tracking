@@ -7,7 +7,7 @@
     "dev": "nodemon src/server.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "node-html-parser": "^1.1.18",
     "qs": "^6.9.1"
