@@ -10,7 +10,7 @@
     "axios": "^0.19.2",
     "express": "^4.17.1",
     "node-html-parser": "^1.1.18",
-    "qs": "^6.9.1"
+    "qs": "^6.9.7"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
